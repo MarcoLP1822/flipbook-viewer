@@ -1,0 +1,17 @@
+{
+    "name": "crm-flipbook-shared",
+    "version": "0.1.0",
+    "private": true,
+    "main": "src/index.ts",
+    "scripts": {
+      "build": "tsc -b",
+      "lint": "eslint \"src/**/*.ts\" --fix",
+      "test": "jest"
+    },
+    "devDependencies": {
+      "typescript": "^5.0.0",
+      "eslint": "^8.0.0",
+      "jest": "^29.0.0"
+    }
+  }
+  

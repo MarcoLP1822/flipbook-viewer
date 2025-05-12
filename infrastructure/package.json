@@ -1,0 +1,12 @@
+{
+    "name": "crm-flipbook-infrastructure",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+      "plan": "terraform -chdir=terraform plan",
+      "apply": "terraform -chdir=terraform apply",
+      "fmt": "terraform -chdir=terraform fmt"
+    },
+    "devDependencies": {}
+  }
+  

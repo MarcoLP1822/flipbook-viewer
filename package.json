@@ -1,0 +1,22 @@
+{
+  "name": "crm-flipbook-viewer-monorepo",
+  "private": true,
+  "version": "0.1.0",
+  "workspaces": [
+    "backend",
+    "frontend",
+    "shared",
+    "infrastructure",
+    "docs",
+    "scripts"
+  ],
+  "scripts": {
+    "bootstrap": "yarn install",
+    "build": "lerna run build",
+    "lint": "lerna run lint"
+  },
+  "devDependencies": {
+    "lerna": "^7.0.0",
+    "typescript": "^5.0.0"
+  }
+}
