@@ -1,5 +1,5 @@
 {
-  "name": "crm-flipbook-viewer-monorepo",
+  "name": "flipbook-viewer-monorepo",
   "private": true,
   "version": "0.1.0",
   "workspaces": [

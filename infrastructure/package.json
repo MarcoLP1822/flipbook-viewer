@@ -1,5 +1,5 @@
 {
-    "name": "crm-flipbook-infrastructure",
+    "name": "flipbook-infrastructure",
     "version": "0.1.0",
     "private": true,
     "scripts": {
